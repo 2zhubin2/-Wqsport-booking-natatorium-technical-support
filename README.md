@@ -1,2 +1,3 @@
 # -Wqsport-booking-natatorium-technical-support
 "Wqsport booking natatorium" technical support
+"WQSport-BookingNatatorium" application provides a series of professional services for swimming enthusiasts. First of all, we provide swimming pool reservation function. Indoor and outdoor swimming pools can be reserved in advance on this platform. We will also push articles related to swimming skills on the home page for users to read. Users can collect their favorite venues and operate them accordingly. We also provide the check-in function, users can get points through daily check-in, and use points to exchange goods…For any comments and suggestions, please contact us: "WQSport-BookingNatatorium" official email:huayixianke@163.com
